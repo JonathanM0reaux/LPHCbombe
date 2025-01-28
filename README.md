@@ -145,7 +145,7 @@
         let inputCode = document.getElementById("inputCode");
         let progressBar = document.getElementById("progressBar");
         let messageBox = document.getElementById("message");
-        const correctCode = "1234";
+        const correctCode = "7542";
         let timer;
         let isRunning = false;
 
